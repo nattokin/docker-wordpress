@@ -7,4 +7,4 @@ $ cd path/to/docker-wordpress
 $ docker-compose up
 ```
 
-[localhost](localhost:8080)
+[localhost](http://localhost:8080)
